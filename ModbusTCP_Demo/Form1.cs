@@ -29,6 +29,8 @@ namespace ModbusTCP_Demo
                 if (connect.IsSuccess)
                 {
                     MessageBox.Show("连接成功！");
+
+                    busTcpClient.WriteRegister(1, 200);
                 }
                 else
                 {
