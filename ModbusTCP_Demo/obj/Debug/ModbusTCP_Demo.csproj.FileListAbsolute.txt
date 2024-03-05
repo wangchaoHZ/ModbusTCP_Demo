@@ -1,0 +1,15 @@
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\bin\Debug\ModbusTCP_Demo.exe.config
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\bin\Debug\ModbusTCP_Demo.exe
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\bin\Debug\ModbusTCP_Demo.pdb
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\bin\Debug\HslCommunication.dll
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\bin\Debug\Newtonsoft.Json.dll
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\bin\Debug\HslCommunication.xml
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\bin\Debug\Newtonsoft.Json.xml
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.csproj.AssemblyReference.cache
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.csproj.SuggestedBindingRedirects.cache
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.Properties.Resources.resources
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.csproj.GenerateResource.cache
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.csproj.CoreCompileInputs.cache
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.csproj.CopyComplete
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.exe
+D:\Workplace\Code\CSP_Code\ModbusTCP_Demo\ModbusTCP_Demo\obj\Debug\ModbusTCP_Demo.pdb
